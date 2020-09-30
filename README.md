@@ -1,4 +1,4 @@
-# Math-Application
+# Math Application
 앱 인벤터를 활용해서 제작한 수학 관련 애플리케이션
 
 <b>피타고라스의 정리 (PythagoreanTheorem.aia)</b><br>
