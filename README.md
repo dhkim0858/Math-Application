@@ -1,5 +1,4 @@
 # Math Application
-앱 인벤터를 활용해서 제작한 수학 관련 애플리케이션
 
 <b>피타고라스의 정리 (PythagoreanTheorem.aia)</b><br>
 플레이 스토어: https://play.google.com/store/apps/details?id=appinventor.ai_dhkim0858.PythagoreanTheorem&hl=ko<br>
